@@ -1,3 +1,11 @@
+# The process
+
+_The only file that you should modify_ is the `solution.js` file.
+
+As you modify the file, you can run the command `npm test` to run the test data through your solution.
+
+The terminal output should match the text in the `solution-output.txt` file.
+
 # The test
 
 This is the text from the coding challenge verbatim. I didn't add any additional formatting to make it easier to read, didn't rewrite anything to make the question more clear.
@@ -30,8 +38,6 @@ Code evaluation is based on output, please do NOT print anything else.
 NO STEP DEBUGGING! When I took this test it was with an in-browser tool that didn't allow for step debugging or the browser debugging tools.
 
 Obviously you can use both here, there's not a practical way to stop you, but I would challenge you to figure it out without those tools to give you insight. The tooling helps, but you're not testing yourself as deeply if you use them for this test.
-
----
 
 # Example input and expected output
 
