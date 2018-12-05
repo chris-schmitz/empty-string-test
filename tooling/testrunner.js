@@ -2,6 +2,7 @@ const path = require("path")
 const { readFile } = require("fs")
 const { spawn } = require("child_process")
 
+// const solutionFile = path.join(__dirname, "..", "completed-solution.js")
 const solutionFile = path.join(__dirname, "..", "solution.js")
 
 readFile(
