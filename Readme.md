@@ -1,6 +1,6 @@
 # The process
 
-_The only file that you should modify_ is the `solution.js` file.
+**The only file that you should modify** is the `solution.js` file.
 
 As you modify the file, you can run the command `npm test` to run the test data through your solution.
 
@@ -11,6 +11,8 @@ The terminal output should match the text in the `solution-output.txt` file.
 This is the text from the coding challenge verbatim. I didn't add any additional formatting to make it easier to read, didn't rewrite anything to make the question more clear.
 
 Part of the challenge (at least as I see it) is deciphering this slightly cryptic explanation to figure out what needs to be done.
+
+When I took the test there was a **90 minute** time restriction. You don't need to adhere to that, but I would say time yourself to see if you can get in under 90 minutes.
 
 ## Task description
 
